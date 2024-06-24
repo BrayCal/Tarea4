@@ -1,0 +1,5 @@
+site_name: ODE Documentation
+nav:
+- Home: index.md
+- Reference: reference.md
+
